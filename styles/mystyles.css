@@ -1,0 +1,23 @@
+html, body {
+    font-family: "Lato", sans-serif;
+    padding-left: 1%;
+    background-image: url("../images/wallpaper.jpg");
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.streams-list {
+    padding: 20%;
+}
+
+.row {
+    margin-bottom: 2em;
+}
+
+h1, h2, h3, h4, h5, a, p, .card-title {
+    color: white;
+}
+
+.col-sm {
+    padding-bottom: 2em;
+}
